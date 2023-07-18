@@ -5,7 +5,7 @@ Seu objetivo neste desafio é criar um algoritmo em PHP que extrai os dados de u
 Passos para concluir o desafio:
 
 1. Faça uma fork do repositório:
-   - Acesse o repositório do desafio no GitHub: <link_do_repositório>.
+   - Acesse o repositório do desafio no GitHub: `https://github.com/ByteCarlos/Desafio_PHP.git`.
    - Crie uma fork do repositório para o seu próprio perfil no GitHub clicando no botão "Fork".
 
 2. Conecte-se ao banco de dados:
