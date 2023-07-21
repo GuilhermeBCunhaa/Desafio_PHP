@@ -1,5 +1,3 @@
-CREATE DATABASE desafioPHP;
-
 USE desafioPHP;
 
 CREATE TABLE textos (
